@@ -1,2 +1,2 @@
 # project1
-podmoro web app
+crud app/ podmoro
