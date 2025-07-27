@@ -1,2 +1,3 @@
-# project1
-crud app/ podmoro
+# To-do list
+- CRUD application
+- used Flask
